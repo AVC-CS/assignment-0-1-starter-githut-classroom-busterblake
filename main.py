@@ -1,7 +1,7 @@
 def main():
 
     print('Hello World')
-    print('CS122: Programming and Algorithms in Python')
+    print('CS122: Programming and Algorithms in Python') 
 
 
 if __name__ == '__main__':
